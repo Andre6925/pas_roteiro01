@@ -13,5 +13,9 @@ import java.util.Scanner;
     System.out.println(p.toString());
     System.out.println("Categoria: "+p.classifica());
     s.close(); // teste asd
+
+    // primeira altearação 
+
+    // segunda alteracao ;
  }
 }
